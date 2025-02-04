@@ -1,0 +1,69 @@
+.container {
+  background-color: var(--bgSoft);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+.date {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.dateField {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.dateField label {
+  margin-bottom: 8px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.dateField input {
+  padding: 15px;
+  background-color: var(--bg);
+  color: var(--text);
+  border: 2px solid #2e374a;
+  border-radius: 5px;
+  outline: none;
+}
+
+.type {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 100%;
+}
+.type label {
+  margin-bottom: 8px;
+  font-weight: bold;
+  font-size: 12px;
+}
+.type select {
+  padding: 15px;
+  background-color: var(--bg);
+  color: var(--text);
+  border: 2px solid #2e374a;
+  border-radius: 5px;
+  outline: none;
+}
+.generateButton {
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    margin-top: 15px;
+    color: white;
+    margin-left: 50rem;
+  }
+  
