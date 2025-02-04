@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@auth/mongodb-adapter": "^2.0.10",
-    "@prisma/client": "^5.22.0",
+    "@prisma/client": "^6.3.0",
     "axios": "^1.7.9",
     "bcrypt": "^5.1.1",
     "caniuse-lite": "^1.0.30001696",
@@ -35,6 +35,6 @@
     "@types/react": "19.0.4",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
-    "prisma": "^6.1.0"
+    "prisma": "^6.3.0"
   }
 }
