@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 git remote add origin https://github.com/Jean-dev-bit/dashboard-finance.git
+
+Version 1.1
